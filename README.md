@@ -1,42 +1,33 @@
-# 👋 Hi, I'm Jacob Minkin!  
+# 👋 Hi, I'm Jacob Minkin  
 
-Welcome to my GitHub! I'm a Master's student in Statistics with a background in Mechanical Engineering from Columbia University's School of Engineering and Applied Science (SEAS). My academic and professional journey reflects my passion for combining mathematics, programming, and problem-solving to tackle real-world challenges.  
+Welcome to my GitHub! I'm a Master’s student in Statistics with a background in Mechanical Engineering from Columbia SEAS. I’m passionate about combining mathematics, programming, and systems thinking to solve real-world problems in data science, finance, and robotics. I’m currently researching stochastic control, with a focus on price impact, optimal liquidation, and reflected SDEs.
 
 ## 🧠 What I Work On  
-### **Data Science & Statistics**  
-I specialize in analyzing complex datasets and building predictive models, with recent work including reinforcement learning for trading strategy optimization, stochastic modeling, and financial market analysis (e.g., S&P 500, VIX, and retail sector trends).  
-- [**Health Inspections in NYC**](https://github.com/JacobMinkin/NYC_Restaurant_Health_Inspection): An analysis of NYC restaurant health inspection data to identify patterns and trends affecting public health.  
-- [**Predicting Housing Prices in NYC**](https://github.com/JacobMinkin/Predicting_Housing_Prices_NYC): A project utilizing machine learning models to predict housing prices based on various socioeconomic factors.  
 
-### **Machine Learning**  
-I'm actively exploring machine learning techniques, particularly reinforcement learning, to enhance decision-making processes in finance and beyond.  
-- [**Machi Koro**](https://github.com/BenMin1/Machi-Koro): A reinforcement learning-based approach to optimize decision-making in the strategy board game Machi Koro.  
-- [**DiceGame**](https://github.com/JacobMinkin/DiceGame): A Python-based game demonstrating probabilistic modeling and decision-making strategies.  
+### 📊 **Data Science & Statistical Modeling**  
+I apply statistical and machine learning methods to analyze complex systems and inform real-world decision-making:
+- [**NFL Season Simulator (2025)**](https://jacobminkin.github.io/nfl-forecast/): A simulation engine that predicts game outcomes, playoff odds, and team skill scores across the 2025 NFL season.  
+- [**NYC Health Inspections**](https://github.com/JacobMinkin/NYC_Restaurant_Health_Inspection): Identifying public health trends from restaurant inspection data.  
+- [**Housing Price Prediction**](https://github.com/JacobMinkin/Predicting_Housing_Prices_NYC): Forecasting NYC housing prices using ML and socioeconomic data.  
+- S&P 500 and VIX time series modeling, retail sector trend analysis, and more.
 
-### **Robotics & Engineering**  
-During my undergraduate studies, I worked on mechanical design, control systems, and robotics projects, applying statistical methods to engineering problems.  
-- [**Robot Design and Simulation**](https://github.com/JacobMinkin/Robot-Studio-Fall22): A project showcasing the design and simulation of robotic systems using advanced modeling tools.  
+### 🤖 **Machine Learning & Reinforcement Learning**  
+I'm exploring reinforcement learning and stochastic control as tools for dynamic decision-making:
+- [**Machi Koro**](https://github.com/BenMin1/Machi-Koro): Reinforcement learning for optimizing strategy in a board game.  
+- [**DiceGame**](https://github.com/JacobMinkin/DiceGame): Modeling risk and reward in probabilistic game mechanics.  
+- Ongoing projects in market simulation, liquidation strategies, and control of impact-driven processes.
 
-## 🛠️ Tech Stack  
-- **Programming**: Python, R, MATLAB  
-- **Tools & Libraries**: NumPy, pandas, scikit-learn, PyTorch, TensorFlow, Matplotlib, Plotly  
-- **Areas of Expertise**: Data analysis, statistical modeling, reinforcement learning, quantitative finance, and robotics  
+### 🛠️ **Engineering & Robotics**  
+My background in mechanical engineering informs my interest in modeling, control, and simulation:
+- [**Robot Design & Simulation**](https://github.com/JacobMinkin/Robot-Studio-Fall22): CAD-based modeling and control of robotic systems.
 
-## 🌟 Let's Collaborate!  
-I'm eager to connect with like-minded individuals and teams working on impactful projects in data science, finance, or robotics. Feel free to explore my repositories or reach out—let's create something amazing together!  
+## 💻 Tech Stack  
+**Languages**: Python, R, MATLAB  
+**Libraries & Tools**: NumPy, pandas, scikit-learn, PyTorch, TensorFlow, Matplotlib, Plotly  
+**Focus Areas**: Data science, statistical learning, reinforcement learning, quantitative finance, stochastic control, robotics
 
-<!--
-### Hi there 👋
-**JacobMinkin/JacobMinkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Let’s Connect  
+I’m always excited to collaborate on data-driven projects—especially those involving finance, AI, or systems modeling.  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...  
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 [LinkedIn](https://www.linkedin.com/in/jacobminkin/)  
+🌐 [NFL Simulator](https://jacobminkin.github.io/nfl-forecast/)  
