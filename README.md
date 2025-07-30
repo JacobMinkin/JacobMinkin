@@ -29,5 +29,5 @@ My background in mechanical engineering informs my interest in modeling, control
 ## 🌟 Let’s Connect  
 I’m always excited to collaborate on data-driven projects—especially those involving finance, AI, or systems modeling.  
 
-📫 [LinkedIn](https://www.linkedin.com/in/jacobminkin/)  
+📫 [LinkedIn](https://www.linkedin.com/in/jacob-minkin/)  
 🌐 [NFL Simulator](https://jacobminkin.github.io/nfl-forecast/)  
